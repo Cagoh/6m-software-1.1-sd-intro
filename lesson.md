@@ -7,8 +7,20 @@ This lesson contains a lot of installations. Learners should expect hiccups and 
 ## Self studies check-in
 
 1. What are programming languages? Why do we have to use them?
+
+Programming language is the set of code instruction given, for the computer to either interpret and run or compile into object file to execute.
+
 2. What is the difference between compiler, and interpreter?
+
+interpreter:
+Computer interpret the set of code instruction line by line.
+
+ Compiler:
+ Computer compile a set of code, for certain machine to able to run the file.
+
 3. What is a software development environment? (bridging to lesson)
+
+Using IDE to code.
 
 ---
 
